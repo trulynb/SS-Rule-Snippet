@@ -86,6 +86,7 @@ dns:
   fake-ip-filter:
     # 以下域名列表参考自 vernesong/OpenClash 项目，并由 Hackl0us 整理补充
     # === LAN ===
+    - '*.qunhequnhe.com'
     - '*.lan'
     # === Linksys Wireless Router ===
     - '*.linksys.com'
